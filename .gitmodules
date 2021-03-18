@@ -1,0 +1,3 @@
+[submodule "CoffeeShop.Web/ClientApp"]
+	path = CoffeeShop.Web/ClientApp
+	url = https://github.com/andrewandzz/coffee-shop-angular.git

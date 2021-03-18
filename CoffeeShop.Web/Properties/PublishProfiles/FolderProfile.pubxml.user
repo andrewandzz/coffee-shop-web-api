@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\study\csharp\CoffeeShop\publish</_PublishTargetUrl>
+    <History>True|2021-03-17T22:28:03.6228804Z;True|2021-03-18T00:14:14.5534118+02:00;True|2021-03-18T00:06:12.1534851+02:00;True|2021-03-17T23:51:32.2711046+02:00;True|2021-03-17T23:18:26.9247267+02:00;</History>
+  </PropertyGroup>
+</Project>

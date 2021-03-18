@@ -1,0 +1,12 @@
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\bin\Debug\netcoreapp3.1\CoffeeShop.Data.dll
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\obj\Debug\netcoreapp3.1\CoffeeShop.Logics.csprojAssemblyReference.cache
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\obj\Debug\netcoreapp3.1\CoffeeShop.Logics.AssemblyInfoInputs.cache
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\obj\Debug\netcoreapp3.1\CoffeeShop.Logics.AssemblyInfo.cs
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\bin\Debug\netcoreapp3.1\CoffeeShop.Logics.deps.json
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\bin\Debug\netcoreapp3.1\CoffeeShop.Logics.dll
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\bin\Debug\netcoreapp3.1\CoffeeShop.Logics.pdb
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\bin\Debug\netcoreapp3.1\CoffeeShop.Data.pdb
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\obj\Debug\netcoreapp3.1\CoffeeShop.Logics.csproj.CoreCompileInputs.cache
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\obj\Debug\netcoreapp3.1\CoffeeShop.Logics.csproj.CopyComplete
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\obj\Debug\netcoreapp3.1\CoffeeShop.Logics.dll
+D:\study\csharp\CoffeeShop\CoffeeShop.Logics\obj\Debug\netcoreapp3.1\CoffeeShop.Logics.pdb
